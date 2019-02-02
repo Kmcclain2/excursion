@@ -1,0 +1,8 @@
+body {font-family: verdana;
+background-color: black;
+color: white;
+text-align: center;
+font-size: 50px
+font-weight: normal;}
+#link {color: aquamarine;
+font-size: 16px}
